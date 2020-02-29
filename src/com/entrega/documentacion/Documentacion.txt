@@ -1,0 +1,3 @@
+Para crear el repositiorio local, se hace click derecho en  el nombre del proyecto, 
+a continuacion pestana de Team y share.
+Se elige el nombre del proyecto
