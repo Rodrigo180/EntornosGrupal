@@ -1,3 +1,9 @@
 Para crear el repositiorio local, se hace click derecho en  el nombre del proyecto, 
 a continuacion pestana de Team y share.
-Se elige el nombre del proyecto
+Se elige el nombre del proyecto.
+
+Despues se selecciona sobre el proyecto la opcion de team Commit y en el menu de 
+commit se selecciona la opcion de push.
+
+Untrack files:
+Se eligen los archivos a borrar, y boton derecho Team -> Advanced ->untrack
